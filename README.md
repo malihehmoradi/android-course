@@ -2,7 +2,7 @@
 
 
 
-### Session 7:    SplashScreen  - layouts
+## Session 7:    SplashScreen  - layouts
 > **Aim:**   Make an SplashScreen page and navigate it to an Intro page<br>
 > **Kotlin:**
 > 
@@ -19,7 +19,7 @@
 
 
 
-### Session 8:   IntroPage  - Shaps
+## Session 8:   IntroPage  - Shaps
 > **Aim:**   Make an IntroPage and navigate it to the Main page<br>
 > **Kotlin:**
 > 
@@ -32,7 +32,7 @@
 
 
 
-### Session 9:   IntroPage  - list and adapter
+## Session 9:   IntroPage  - list and adapter
 > **Aim:**   Make an IntroPage and navigate it to the Main page<br>
 > **Kotlin:**
 > 
@@ -40,5 +40,6 @@
 >
 > **Android:** 
 > - Intro **ViewPager**
+
 
 
