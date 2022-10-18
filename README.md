@@ -34,7 +34,7 @@
  - Intro **[Collections]()**, **[List]()**, **[MutableList]()**, **[Set]()**, **[MutableSet]()**, **[Map]()**, **[MutableMap]()**.
 
  **Android:** 
- - Intro **ViewPager**
+ - Intro **ViewPager** and **[PagerAdapter](https://developer.android.com/reference/kotlin/androidx/viewpager/widget/PagerAdapter)**
 <br>
 
 
