@@ -28,8 +28,8 @@
 <br>
 
 
-## Session 9:   IntroPage (step 1)  - List 
- **Aim:**   Make an IntroPage and navigate it to the Main page<br>
+## Session 9:   IntroPage (step 1)  - List, ViewPager, PagerAdapter
+ **Aim:**   Make an IntroPage contains a slider<br>
  **Kotlin:**
  - Intro **[Collections]()**, **[List]()**, **[MutableList]()**, **[Set]()**, **[MutableSet]()**, **[Map]()**, **[MutableMap]()**.
 
