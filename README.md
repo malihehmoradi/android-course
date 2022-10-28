@@ -4,9 +4,9 @@
 ## Session 1: Introduction  - Android, Kotlin, Tools
 - **Android:**
   - Introduce **[Android](https://www.android.com/)**
+  - Why do we choose Android?
   - How to make mony by Android programming?
   - Introduce **[Android Studio](https://developer.android.com/studio)**
-  - Why do we choose Android?
   - Android programming requirments' tools
 - **Kotlin:**
   - Introduce **[Kotlin](https://kotlinlang.org/)**
