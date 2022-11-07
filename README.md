@@ -52,7 +52,6 @@
 
 
 ## Session 10:   MainPage  - Create dynamic lists with RecyclerView
- **Aim:**   Make an IntroPage and navigate it to the Main page<br>
  **Kotlin:**
  - Intro List and Mutable List
 
@@ -61,6 +60,13 @@
 <br>
 
 ## Map
+ **Kotlin:**
+ - Intro List and Mutable List
+
+ **Android:** 
+ - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
+<br>
+
 
 ## Navigation
 
