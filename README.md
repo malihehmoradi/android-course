@@ -11,8 +11,14 @@
 - **Kotlin:**
   - Introduce **[Kotlin](https://kotlinlang.org/)**
   - Why do we choose Kotlin?
- 
-
+  
+  
+## Session 2: UI-UX  - Introduce an instance app
+- **UI**
+  - Introuce some UI-UX design tools like: **[Figma](https://www.figma.com)**, **[Adobe XD](https://www.adobe.com/products/xd.html)**, **[Sketch](https://www.sketch.com/)** and work with them
+  - Itroduce some UI websites like: **[Dribble](https://dribbble.com/)**, **[UI8](https://ui8.net/)**, **[Mobbin](https://mobbin.com/)**, **[Uplabs](https://www.uplabs.com/)**
+- **UX**
+  - ???
 
 
 ## Session 7:    SplashScreen  - layouts
