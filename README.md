@@ -1,7 +1,7 @@
 # Android Course
 
 
-## Session 1: Introduction  - Android, Kotlin, Tools
+## Session 1: Introduction  - Android, Kotlin and Tools
 - **Android:**
   - Introduce **[Android](https://www.android.com/)**
   - Why do we choose Android?
@@ -11,6 +11,10 @@
 - **Kotlin:**
   - Introduce **[Kotlin](https://kotlinlang.org/)**
   - Why do we choose Kotlin?
+- **Requirements:**
+  - Download the last version of Android Studio from this link: **[Android Studio](https://developer.android.com/studio)**
+  - Download the last version of JDK from this lisk: **[JDK](https://www.oracle.com/java/technologies/downloads/)**
+
   
   
 ## Session 2: UI-UX  - Introduce an instance app
