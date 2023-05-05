@@ -33,7 +33,7 @@
 
 
  **Android:**
- - How to access to views in Android
+ - How to access to views in Android (findViewById vs Butterknife vs Kotlin Android Extension vs. data binding vs. view binding)
  - Intro **[ConstraintLayout](https://developer.android.com/develop/ui/views/layout/constraint-layout)**<br>
  - Build a Responsive UI with ConstraintLayout 
  - Define class of **[Handler](https://developer.android.com/reference/android/os/Handler#:~:text=A%20Handler%20allows%20you%20to,is%20bound%20to%20a%20Looper%20.)**
