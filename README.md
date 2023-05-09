@@ -1,7 +1,7 @@
 # Android Course
 
 
-## Session 1: Introduction  - Android, Kotlin and Tools
+## Unit 1: Introduction  - Android, Kotlin and Tools
 - **Android:**
   - Introduce **[Android](https://www.android.com/)**
   - Why do we choose Android?
@@ -17,7 +17,7 @@
 
   
   
-## Session 2: UI-UX  - Introduce an instance app
+## Unit 2: UI-UX  - Introduce an instance app
 - **UI**
   - Introuce some UI-UX design tools like: **[Figma](https://www.figma.com)**, **[Adobe XD](https://www.adobe.com/products/xd.html)**, **[Sketch](https://www.sketch.com/)** and work with them
   - Itroduce some UI websites like: **[Dribble](https://dribbble.com/)**, **[UI8](https://ui8.net/)**, **[Mobbin](https://mobbin.com/)**, **[Uplabs](https://www.uplabs.com/)**
@@ -26,12 +26,9 @@
   - ???
 
 
-## Session 7:    layouts
- **Aim:**   Make an SplashScreen page and navigate it to an Intro page<br>
- **Kotlin:**
- 
-
-
+## Unit 7:    Layouts
+ **Aim:**   <br>
+ **Kotlin:**  Intro Variables in Kotlin <br>
  **Android:**
  - How to access to views in Android (findViewById vs Butterknife vs Kotlin Android Extension vs. data binding vs. view binding)
  - Intro **[ConstraintLayout](https://developer.android.com/develop/ui/views/layout/constraint-layout)**<br>
@@ -41,11 +38,15 @@
 <br>
 
 
+## Unit 12:   Navigation in Android  -  Intents, Navigation
+ **Android:** 
+ - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
+<br>
 
 
 
-## Session 8:   IntroPage  - Shaps
- **Aim:**   Make an IntroPage and navigate it to the Main page<br>
+## Unit 8:   Assets  - Shaps
+ **Aim:**   Create an introductory page and direct it to the main page for navigation.<br/>
  **Kotlin:**
  
  **Android:** 
@@ -53,7 +54,7 @@
 <br>
 
 
-## Session 9:   IntroPage (step 1)  - List, ViewPager, PagerAdapter
+## Unit 9:   IntroPage (step 1)  - List, ViewPager, PagerAdapter
  **Aim:**   Make an IntroPage contains a slider<br>
  **Kotlin:**
  - Intro **[Collections]()**, **[List]()**, **[MutableList]()**, **[Set]()**, **[MutableSet]()**, **[Map]()**, **[MutableMap]()**.
@@ -63,15 +64,7 @@
 <br>
 
 
-## Session 10:   MainPage  - Create dynamic lists with RecyclerView
- **Kotlin:**
- - Intro List and Mutable List
-
- **Android:** 
- - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
-<br>
-
-## Map
+## Unit 10:   MainPage  - Create dynamic lists with RecyclerView
  **Kotlin:**
  - Intro List and Mutable List
 
@@ -80,5 +73,15 @@
 <br>
 
 
-## Navigation
+
+## Unit 11:   Map in Android  - Google Map, OS Map, Markers, Direction
+ **Android:** 
+ - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
+<br>
+
+
+## Unit 12:   Dependency Injection in Android  - Dagger / Hilt / Koil
+ **Android:** 
+
+
 
