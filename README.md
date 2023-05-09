@@ -16,7 +16,7 @@
 - **Requirements:**
   - Download the last version of Android Studio from this link: **[Android Studio](https://developer.android.com/studio)**
   - Download the last version of JDK from this lisk: **[JDK](https://www.oracle.com/java/technologies/downloads/)**
-
+  
   
   
 ## Unit 2: UI-UX  - Introduce an instance app
@@ -31,7 +31,12 @@
 ## Unit 7:   🏢**Layouts in Android**
  **Aim:**   <br>
  **Kotlin:**  Intro Variables in Kotlin <br>
+ **Android Studio**
+ - Android Manifest
+ - Gradle
  **Android:**
+ - View، View Group
+ - xml structure
  - How to access to views in Android (findViewById vs Butterknife vs Kotlin Android Extension vs. data binding vs. view binding)
  - Intro **[ConstraintLayout](https://developer.android.com/develop/ui/views/layout/constraint-layout)**<br>
  - Build a Responsive UI with ConstraintLayout 
