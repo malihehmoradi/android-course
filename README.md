@@ -26,7 +26,7 @@
   - ???
 
 
-## Unit 7:    Layouts
+## Unit 7:    **Layouts in Android**
  **Aim:**   <br>
  **Kotlin:**  Intro Variables in Kotlin <br>
  **Android:**
@@ -38,14 +38,14 @@
 <br>
 
 
-## Unit 12:   Navigation in Android  -  Intents, Navigation
+## Unit 12:   **Navigation in Android**  -  Intents, Navigation
  **Android:** 
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
 <br>
 
 
 
-## Unit 8:   Assets  - Shaps
+## Unit 8:   **Assets**  - Shaps
  **Aim:**   Create an introductory page and direct it to the main page for navigation.<br/>
  **Kotlin:**
  
@@ -74,13 +74,13 @@
 
 
 
-🗺 ## Unit 11:   Map in Android  - Google Map, OS Map, Markers, Direction
+🗺 ## Unit 11:   **Map in Android**  - Google Map, OS Map, Markers, Direction
  **Android:** 
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
 <br>
 
 
-## Unit 12:   Dependency Injection in Android  - Dagger / Hilt / Koil
+💉 ## Unit 12:   **Dependency Injection in Android**  - Dagger / Hilt / Koil
  **Android:** 
 
 
