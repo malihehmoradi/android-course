@@ -8,6 +8,8 @@
   - How to make mony by Android programming?
   - Introduce **[Android Studio](https://developer.android.com/studio)**
   - Android programming requirments' tools
+  - Introduce Emulators (AVD, Genymotion, Bluestacks)
+  - Install AVD
 - **Kotlin:**
   - Introduce **[Kotlin](https://kotlinlang.org/)**
   - Why do we choose Kotlin?
