@@ -72,22 +72,22 @@
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
 <br>
 
+## Unit 11:  **Image Loaders** - Coil, Fresco, Glide, Picasso
+ **Android:** 
+ - 
 
 
-## Unit 11:  🗺**Map in Android**  - Google Map, OS Map, Markers, Direction
+## Unit 12:  🗺**Map in Android**  - Google Map, OS Map, Markers, Direction
  **Android:** 
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
 <br>
 
 
-## Unit 12: 💉**Dependency Injection in Android**  - Dagger / Hilt / Koil
+## Unit 13: 💉**Dependency Injection in Android**  - Dagger / Hilt / Koil
  **Android:** 
 
 
-## Unit 11:  **Git (Version Control System)**
- **Android:** 
- - 
-
-## Unit 11:  **Image Loaders** - Coil, Fresco, Glide, Picasso
+## Unit 14:  **Git (Version Control System)**
  **Android:** 
  - 
+
