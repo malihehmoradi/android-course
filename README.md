@@ -76,6 +76,14 @@
  **Android:** 
  - 
 
+## Unit 11:  **Fragments** - Coil, Fresco, Glide, Picasso
+ **Android:** 
+ - Fragment Lifecycle
+ - FragmentTransaction
+ - Pass Arguments to fragment
+ - DialogFragment
+ - BottomSheet Dialog Fragment
+ - ViewPager
 
 ## Unit 12:  🗺**Map in Android**  - Google Map, OS Map, Markers, Direction
  **Android:** 
