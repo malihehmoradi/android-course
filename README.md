@@ -28,7 +28,7 @@
   - ???
 
 
-## Unit 7:   🏢**Layouts in Android**
+## Unit 3:   🏢**Layouts in Android**
  **Aim:**   <br>
  **Kotlin:**  Intro Variables in Kotlin <br>
  **Android Studio**
@@ -45,14 +45,14 @@
 <br>
 
 
-## Unit 12:   🧭**Navigation in Android**  -  Intents, Navigation
+## Unit 4:   🧭**Navigation in Android**  -  Intents, Navigation
  **Android:** 
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
 <br>
 
 
 
-## Unit 8:   🖼**Assets**  - Shaps
+## Unit 5:   🖼**Assets**  - Shaps
  **Aim:**   Create an introductory page and direct it to the main page for navigation.<br/>
  **Kotlin:**
  
@@ -61,7 +61,7 @@
 <br>
 
 
-## Unit 9:   IntroPage (step 1)  - List, ViewPager, PagerAdapter
+## Unit 6:   IntroPage (step 1)  - List, ViewPager, PagerAdapter
  **Aim:**   Make an IntroPage contains a slider<br>
  **Kotlin:**
  - Intro **[Collections]()**, **[List]()**, **[MutableList]()**, **[Set]()**, **[MutableSet]()**, **[Map]()**, **[MutableMap]()**.
@@ -71,7 +71,7 @@
 <br>
 
 
-## Unit 10:   MainPage  - Create dynamic lists with RecyclerView
+## Unit 7:   MainPage  - Create dynamic lists with RecyclerView
  **Kotlin:**
  - Intro List and Mutable List
 
@@ -79,11 +79,11 @@
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
 <br>
 
-## Unit 11:  **Image Loaders** - Coil, Fresco, Glide, Picasso
+## Unit 8:  **Image Loaders** - Coil, Fresco, Glide, Picasso
  **Android:** 
  - 
 
-## Unit 11:  **Fragments** - Coil, Fresco, Glide, Picasso
+## Unit 9:  **Fragments** - Coil, Fresco, Glide, Picasso
  **Android:** 
  - Fragment Lifecycle
  - FragmentTransaction
@@ -92,17 +92,17 @@
  - BottomSheet Dialog Fragment
  - ViewPager
 
-## Unit 12:  🗺**Map in Android**  - Google Map, OS Map, Markers, Direction
+## Unit 10:  🗺**Map in Android**  - Google Map, OS Map, Markers, Direction
  **Android:** 
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
 <br>
 
 
-## Unit 13: 💉**Dependency Injection in Android**  - Dagger / Hilt / Koil
+## Unit 11: 💉**Dependency Injection in Android**  - Dagger / Hilt / Koil
  **Android:** 
 
 
-## Unit 14:  **Git (Version Control System)**
+## Unit 12:  **Git (Version Control System)**
  **Android:** 
  - 
 
