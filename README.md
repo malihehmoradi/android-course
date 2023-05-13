@@ -45,6 +45,13 @@
 <br>
 
 
+## Unit 4:   🧭**Kotlin**  - 
+ **Kotlin:** 
+ - 1 Define variables var and val , 2 define datetypes , 3 meaningful names for variables
+ - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
+<br>
+
+
 ## Unit 4:   🧭**Navigation in Android**  -  Intents, Navigation
  **Android:** 
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
