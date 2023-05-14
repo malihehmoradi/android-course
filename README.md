@@ -45,8 +45,7 @@
 <br>
 
 
-## Unit 4:   🧭**Kotlin**  - 
- **Kotlin:** 
+## Unit 4:  <img src="https://github.com/malihemoradi/android-course/assets/45434883/685cda52-eb5a-4731-86ef-7954602e17a8" with="20" height="20"/> **Kotlin** 
  - 1 Define variables var and val , 2 define datetypes , 3 meaningful names for variables
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
 <br>
