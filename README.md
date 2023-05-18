@@ -37,15 +37,15 @@
  **Android:**
  - Introduction to Layouts:
    - Explain the purpose of layouts and how they help in organizing and positioning UI elements in an Android app. 
-     -- Resource: Android Developer Documentation - [User Interface Overview](https://developer.android.com/develop/ui)
+   - Resource: Android Developer Documentation - [User Interface Overview](https://developer.android.com/develop/ui)
  - XML Layouts:
    - Introduce **XML** as the markup language used to define layouts in Android.
    - Teach how to create XML layout files, including the root element, namespaces, and attributes.
-     -- Resource: Android Developer Documentation - [Layouts in XML](https://developer.android.com/develop/ui/views/layout/declaring-layout)
+   - Resource: Android Developer Documentation - [Layouts in XML](https://developer.android.com/develop/ui/views/layout/declaring-layout)
  - ViewGroups and View Hierarchy:
    - Discuss the concept of ViewGroup as a container for UI elements.
    - Explain the view hierarchy and how views are nested within ViewGroup containers.
-     --Resource: Android Developer Documentation - [ViewGroup](https://developer.android.com/reference/android/view/ViewGroup)
+   - Resource: Android Developer Documentation - [ViewGroup](https://developer.android.com/reference/android/view/ViewGroup)
  - View، View Group
  - xml structure
  - How to access to views in Android (findViewById vs Butterknife vs Kotlin Android Extension vs. data binding vs. view binding)
