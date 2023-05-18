@@ -35,6 +35,8 @@
  - Android Manifest
  - Gradle
  **Android:**
+ - Explain the purpose of layouts and how they help in organizing and positioning UI elements in an Android app. 
+   -- Resource: Android Developer Documentation - (User Interface Overview)[https://developer.android.com/develop/ui].
  - View، View Group
  - xml structure
  - How to access to views in Android (findViewById vs Butterknife vs Kotlin Android Extension vs. data binding vs. view binding)
