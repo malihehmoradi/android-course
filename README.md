@@ -71,29 +71,29 @@
   - Explain what view objects are in the context of Android development.
   - Introduce commonly used view classes such as TextView, Button, ImageView, etc.
   - Teach how to create views programmatically using the corresponding view class.
-  - Resources: Android Developer Documentation on Views: https://developer.android.com/reference/android/view/View
+  - Resources: Android Developer Documentation on [Views](https://developer.android.com/reference/android/view/View)
 - Referencing Views in XML Layouts:
   - Explain how to assign an ID to a view in XML using the android:id attribute.
   - Teach how to reference views from XML layouts in the Java/Kotlin code using the findViewById() method.
-  - Resources: Android Developer Documentation on `findViewById()`: https://developer.android.com/reference/android/view/View#findViewById(int)
+  - Resources: Android Developer Documentation on [findViewById()](https://developer.android.com/reference/android/view/View#findViewById(int))
 - ButterKnife Library (Optional):
   - Introduce the ButterKnife library, which simplifies view binding and reduces boilerplate code.
   - Teach how to use annotations to bind views in the code using ButterKnife.
-  - Resources: ButterKnife GitHub Repository: https://github.com/JakeWharton/butterknife
+  - Resources: [ButterKnife GitHub Repository](https://github.com/JakeWharton/butterknife)
 - View Binding (Recommended):
   - Explain the concept of view binding, a feature introduced by Android to eliminate the need for findViewById().
   - Teach how to enable view binding in an Android project and access views using generated binding classes.
-  - Resources: Android Developer Documentation on View Binding: https://developer.android.com/topic/libraries/view-binding
+  - Resources: Android Developer Documentation on [View Binding](https://developer.android.com/topic/libraries/view-binding)
 - Data Binding (Advanced):
   - Introduce data binding, a powerful feature that allows for seamless interaction between views and data models.
   - Teach how to enable data binding in an Android project and use binding expressions to bind data to views.
-  - Resources: Android Developer Documentation on Data Binding: https://developer.android.com/topic/libraries/data-binding
+  - Resources: Android Developer Documentation on [Data Binding](https://developer.android.com/topic/libraries/data-binding)
 - Kotlin Synthetic Properties (Kotlin Only):
   - Explain Kotlin synthetic properties, which provide a concise way to access views directly in Kotlin code without findViewById().
   - Teach how to enable synthetic properties in a Kotlin project and access views using their IDs as property names.
-  - Resources: Kotlin Synthetic Properties Documentation: https://kotlinlang.org/docs/synthetic-properties.html
+  - Resources: [Kotlin Synthetic Properties Documentation](https://kotlinlang.org/docs/synthetic-properties.html)
   
-  > Practice accessing views in different scenarios and building small projects that involve manipulating views dynamically.
+> Practice accessing views in different scenarios and building small projects that involve manipulating views dynamically.
   
   
   
