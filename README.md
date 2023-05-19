@@ -1,7 +1,7 @@
 # Android Course  - Completing ...
 
 
-## Unit 1: Introduction  - Android, Kotlin, and Tools
+## Unit 1: Introduction to Android Development
 - **Android:**
   - Introduce **[Android](https://www.android.com/)**
   - Why do we choose Android?
@@ -16,6 +16,9 @@
 - **Requirements:**
   - Download the last version of Android Studio from this link: **[Android Studio](https://developer.android.com/studio)**
   - Download the last version of JDK from this link: **[JDK](https://www.oracle.com/java/technologies/downloads/)**
+  
+  
+> Practice App Idea: Create a simple "Hello, Android" app that displays a welcome message on the screen.
   
   
   
@@ -63,10 +66,14 @@
    - Discuss best practices for optimizing layouts and improving performance.
    - Resources: Android Developer Documentation - [ScrollView](https://developer.android.com/reference/android/widget/ScrollView), [RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)
  
-> Practice coding and build small projects to reinforce their understanding of layouts in Android.
+> Practice App Idea: Build a User Interface of app.
 
   
-## Unit 4:   🏢**Access views in Android**
+## Unit 4:   <img src="https://github.com/malihemoradi/android-course/assets/45434883/685cda52-eb5a-4731-86ef-7954602e17a8" with="20" height="20"/>**Introduction to Kotlin**
+- Teach the basics of Kotlin syntax, including variables, data types, control flow statements (if-else, loops), and functions.
+- Resources: [Kotlin Programming Language Documentation](https://kotlinlang.org/docs/home.html), [Kotlin Koans](https://play.kotlinlang.org/koans/overview)  
+  
+## Unit 5:   🏢**Access views in Android**
 - Introduction to View Objects:
   - Explain what view objects are in the context of Android development.
   - Introduce commonly used view classes such as TextView, Button, ImageView, etc.
@@ -97,20 +104,37 @@
   
   
   
-## Unit 5:  <img src="https://github.com/malihemoradi/android-course/assets/45434883/685cda52-eb5a-4731-86ef-7954602e17a8" with="20" height="20"/> **Kotlin** 
+## Unit 6:   🏢**Lists and Adapters in Android**
+- Introduction to View Objects:
+  - Explain what view objects are in the context of Android development.
+  - Introduce commonly used view classes such as TextView, Button, ImageView, etc.
+  - Teach how to create views programmatically using the corresponding view class.
+  - Resources: Android Developer Documentation on [Views](https://developer.android.com/reference/android/view/View)
+  
+  
+## Unit 7:   🏢**Data Persistence and Networking in Android**
+- Introduction to View Objects:
+  - Explain what view objects are in the context of Android development.
+  - Introduce commonly used view classes such as TextView, Button, ImageView, etc.
+  - Teach how to create views programmatically using the corresponding view class.
+  - Resources: Android Developer Documentation on [Views](https://developer.android.com/reference/android/view/View)
+  
+  
+  
+## Unit 8:  <img src="https://github.com/malihemoradi/android-course/assets/45434883/685cda52-eb5a-4731-86ef-7954602e17a8" with="20" height="20"/> **Kotlin** 
  - 1 Define variables var and val , 2 define datetypes , 3 meaningful names for variables
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
 <br>
 
 
-## Unit 6:   🧭**Navigation in Android**  -  Intents, Navigation
+## Unit 9:   🧭**Navigation in Android**  -  Intents, Navigation
  **Android:** 
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
 <br>
 
 
 
-## Unit 7:   🖼**Assets**  - Shaps
+## Unit 10:   🖼**Assets**  - Shaps
  **Aim:**   Create an introductory page and direct it to the main page for navigation.<br/>
  **Kotlin:**
  
@@ -119,7 +143,7 @@
 <br>
 
 
-## Unit 8:   IntroPage (step 1)  - List, ViewPager, PagerAdapter
+## Unit 11:   IntroPage (step 1)  - List, ViewPager, PagerAdapter
  **Aim:**   Make an IntroPage contains a slider<br>
  **Kotlin:**
  - Intro **[Collections]()**, **[List]()**, **[MutableList]()**, **[Set]()**, **[MutableSet]()**, **[Map]()**, **[MutableMap]()**.
@@ -129,7 +153,7 @@
 <br>
 
 
-## Unit 9:   MainPage  - Create dynamic lists with RecyclerView
+## Unit 12:   MainPage  - Create dynamic lists with RecyclerView
  **Kotlin:**
  - Intro List and Mutable List
 
@@ -137,11 +161,11 @@
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
 <br>
 
-## Unit 10:  **Image Loaders** - Coil, Fresco, Glide, Picasso
+## Unit 13:  **Image Loaders** - Coil, Fresco, Glide, Picasso
  **Android:** 
  - 
 
-## Unit 11:  **Fragments** - Coil, Fresco, Glide, Picasso
+## Unit 14:  **Fragments** - Coil, Fresco, Glide, Picasso
  **Android:** 
  - Fragment Lifecycle
  - FragmentTransaction
@@ -150,17 +174,17 @@
  - BottomSheet Dialog Fragment
  - ViewPager
 
-## Unit 12:  🗺**Map in Android**  - Google Map, OS Map, Markers, Direction
+## Unit 15:  🗺**Map in Android**  - Google Map, OS Map, Markers, Direction
  **Android:** 
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
 <br>
 
 
-## Unit 13: 💉**Dependency Injection in Android**  - Dagger / Hilt / Koil
+## Unit 16: 💉**Dependency Injection in Android**  - Dagger / Hilt / Koil
  **Android:** 
 
 
-## Unit 14:  **Git (Version Control System)**
+## Unit 17:  **Git (Version Control System)**
  **Android:** 
  - 
 
