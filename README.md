@@ -66,7 +66,7 @@
 > Practice coding and build small projects to reinforce their understanding of layouts in Android.
 
   
-## Unit 4:   🏢**Layouts in Android**
+## Unit 4:   🏢**Access views in Android**
 - Introduction to View Objects:
   - Explain what view objects are in the context of Android development.
   - Introduce commonly used view classes such as TextView, Button, ImageView, etc.
