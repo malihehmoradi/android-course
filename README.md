@@ -63,30 +63,54 @@
    - Discuss best practices for optimizing layouts and improving performance.
    - Resources: Android Developer Documentation - [ScrollView](https://developer.android.com/reference/android/widget/ScrollView), [RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)
  
+> Practice coding and build small projects to reinforce their understanding of layouts in Android.
+
   
-
- - How to access to views in Android (findViewById vs Butterknife vs Kotlin Android Extension vs. data binding vs. view binding)
- - Intro **[ConstraintLayout](https://developer.android.com/develop/ui/views/layout/constraint-layout)**<br>
- - Build a Responsive UI with ConstraintLayout 
- - Define class of **[Handler](https://developer.android.com/reference/android/os/Handler#:~:text=A%20Handler%20allows%20you%20to,is%20bound%20to%20a%20Looper%20.)**
- - Intro **[ProgressBar](https://developer.android.com/reference/android/widget/ProgressBar)**  and use the ProgressBar in the SplashScreen page
-<br>
-
-
-## Unit 4:  <img src="https://github.com/malihemoradi/android-course/assets/45434883/685cda52-eb5a-4731-86ef-7954602e17a8" with="20" height="20"/> **Kotlin** 
+## Unit 4:   🏢**Layouts in Android**
+- Introduction to View Objects:
+  - Explain what view objects are in the context of Android development.
+  - Introduce commonly used view classes such as TextView, Button, ImageView, etc.
+  - Teach how to create views programmatically using the corresponding view class.
+  - Resources: Android Developer Documentation on Views: https://developer.android.com/reference/android/view/View
+- Referencing Views in XML Layouts:
+  - Explain how to assign an ID to a view in XML using the android:id attribute.
+  - Teach how to reference views from XML layouts in the Java/Kotlin code using the findViewById() method.
+  - Resources: Android Developer Documentation on `findViewById()`: https://developer.android.com/reference/android/view/View#findViewById(int)
+- ButterKnife Library (Optional):
+  - Introduce the ButterKnife library, which simplifies view binding and reduces boilerplate code.
+  - Teach how to use annotations to bind views in the code using ButterKnife.
+  - Resources: ButterKnife GitHub Repository: https://github.com/JakeWharton/butterknife
+- View Binding (Recommended):
+  - Explain the concept of view binding, a feature introduced by Android to eliminate the need for findViewById().
+  - Teach how to enable view binding in an Android project and access views using generated binding classes.
+  - Resources: Android Developer Documentation on View Binding: https://developer.android.com/topic/libraries/view-binding
+- Data Binding (Advanced):
+  - Introduce data binding, a powerful feature that allows for seamless interaction between views and data models.
+  - Teach how to enable data binding in an Android project and use binding expressions to bind data to views.
+  - Resources: Android Developer Documentation on Data Binding: https://developer.android.com/topic/libraries/data-binding
+- Kotlin Synthetic Properties (Kotlin Only):
+  - Explain Kotlin synthetic properties, which provide a concise way to access views directly in Kotlin code without findViewById().
+  - Teach how to enable synthetic properties in a Kotlin project and access views using their IDs as property names.
+  - Resources: Kotlin Synthetic Properties Documentation: https://kotlinlang.org/docs/synthetic-properties.html
+  
+  > Practice accessing views in different scenarios and building small projects that involve manipulating views dynamically.
+  
+  
+  
+## Unit 5:  <img src="https://github.com/malihemoradi/android-course/assets/45434883/685cda52-eb5a-4731-86ef-7954602e17a8" with="20" height="20"/> **Kotlin** 
  - 1 Define variables var and val , 2 define datetypes , 3 meaningful names for variables
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
 <br>
 
 
-## Unit 4:   🧭**Navigation in Android**  -  Intents, Navigation
+## Unit 6:   🧭**Navigation in Android**  -  Intents, Navigation
  **Android:** 
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
 <br>
 
 
 
-## Unit 5:   🖼**Assets**  - Shaps
+## Unit 7:   🖼**Assets**  - Shaps
  **Aim:**   Create an introductory page and direct it to the main page for navigation.<br/>
  **Kotlin:**
  
@@ -95,7 +119,7 @@
 <br>
 
 
-## Unit 6:   IntroPage (step 1)  - List, ViewPager, PagerAdapter
+## Unit 8:   IntroPage (step 1)  - List, ViewPager, PagerAdapter
  **Aim:**   Make an IntroPage contains a slider<br>
  **Kotlin:**
  - Intro **[Collections]()**, **[List]()**, **[MutableList]()**, **[Set]()**, **[MutableSet]()**, **[Map]()**, **[MutableMap]()**.
@@ -105,7 +129,7 @@
 <br>
 
 
-## Unit 7:   MainPage  - Create dynamic lists with RecyclerView
+## Unit 9:   MainPage  - Create dynamic lists with RecyclerView
  **Kotlin:**
  - Intro List and Mutable List
 
@@ -113,11 +137,11 @@
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
 <br>
 
-## Unit 8:  **Image Loaders** - Coil, Fresco, Glide, Picasso
+## Unit 10:  **Image Loaders** - Coil, Fresco, Glide, Picasso
  **Android:** 
  - 
 
-## Unit 9:  **Fragments** - Coil, Fresco, Glide, Picasso
+## Unit 11:  **Fragments** - Coil, Fresco, Glide, Picasso
  **Android:** 
  - Fragment Lifecycle
  - FragmentTransaction
@@ -126,17 +150,17 @@
  - BottomSheet Dialog Fragment
  - ViewPager
 
-## Unit 10:  🗺**Map in Android**  - Google Map, OS Map, Markers, Direction
+## Unit 12:  🗺**Map in Android**  - Google Map, OS Map, Markers, Direction
  **Android:** 
  - Intro **[RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)**, **[Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)**
 <br>
 
 
-## Unit 11: 💉**Dependency Injection in Android**  - Dagger / Hilt / Koil
+## Unit 13: 💉**Dependency Injection in Android**  - Dagger / Hilt / Koil
  **Android:** 
 
 
-## Unit 12:  **Git (Version Control System)**
+## Unit 14:  **Git (Version Control System)**
  **Android:** 
  - 
 
