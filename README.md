@@ -1,13 +1,13 @@
-# Android Course
+# Android Course  - Completing ...
 
 
-## Unit 1: Introduction  - Android, Kotlin and Tools
+## Unit 1: Introduction  - Android, Kotlin, and Tools
 - **Android:**
   - Introduce **[Android](https://www.android.com/)**
   - Why do we choose Android?
-  - How to make mony by Android programming?
+  - How to make money from Android programming?
   - Introduce **[Android Studio](https://developer.android.com/studio)**
-  - Android programming requirments' tools
+  - Android programming requirements' tools
   - Introduce Emulators (AVD, Genymotion, Bluestacks)
   - Install AVD
 - **Kotlin:**
@@ -15,14 +15,14 @@
   - Why do we choose Kotlin?
 - **Requirements:**
   - Download the last version of Android Studio from this link: **[Android Studio](https://developer.android.com/studio)**
-  - Download the last version of JDK from this lisk: **[JDK](https://www.oracle.com/java/technologies/downloads/)**
+  - Download the last version of JDK from this link: **[JDK](https://www.oracle.com/java/technologies/downloads/)**
   
   
   
 ## Unit 2: UI-UX  - Introduce an instance app
 - **UI**
-  - Introuce some UI-UX design tools like: **[Figma](https://www.figma.com)**, **[Adobe XD](https://www.adobe.com/products/xd.html)**, **[Sketch](https://www.sketch.com/)** and work with them
-  - Itroduce some UI websites like: **[Dribble](https://dribbble.com/)**, **[UI8](https://ui8.net/)**, **[Mobbin](https://mobbin.com/)**, **[Uplabs](https://www.uplabs.com/)**
+  - Introduce some UI-UX design tools like: **[Figma](https://www.figma.com)**, **[Adobe XD](https://www.adobe.com/products/xd.html)**, **[Sketch](https://www.sketch.com/)** and work with them
+  - Introduce some UI websites like: **[Dribble](https://dribbble.com/)**, **[UI8](https://ui8.net/)**, **[Mobbin](https://mobbin.com/)**, **[Uplabs](https://www.uplabs.com/)**
   - Introduce trend UIs
 - **UX**
   - ???
