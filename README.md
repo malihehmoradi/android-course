@@ -10,8 +10,15 @@
 | Unit 5  | Access views in Android  |
 | Unit 6  | Lists and Adapters  |
 | Unit 7  | Data Persistence and Networking  |
-
-
+| Unit 8  | Navigation  |
+| Unit 9  | Asesets  |
+| Unit 10  | Image Loaders  |
+| Unit 11  |  Fragments  |
+| Unit 12  |  Image Loaders  |
+| Unit 13  |  Map  |
+| Unit 14  |  DI  |
+| Unit 15  |  Git  |
+| Unit 16  |  Notification  |
 ------------
 
 ### Unit 1: Introduction to Android Development
@@ -87,7 +94,6 @@
 
 
 ### Unit 4: Introduction to Kotlin
-
 - Teach the basics of Kotlin syntax, including variables, data types, control flow statements (if-else, loops), and functions.
 - Resources: [Kotlin Programming Language Documentation](https://kotlinlang.org/docs/home.html), [Kotlin Koans](https://play.kotlinlang.org/koans/overview)<br>
 - Step 1: Introduction to Kotlin Basics
@@ -124,6 +130,7 @@
   - Coroutine context and dispatchers
   - Structured concurrency and cancellation
   - Error handling in coroutines
+
 
 ------------
 
@@ -198,17 +205,17 @@
 ------------
 
 
-### Unit 7: 🏢 Data Persistence and Networking in Android
+### Unit 7: 🏢 Data Persistence and Networking
 
 
 ------------
 
-### Unit 9: 🧭 Navigation in Android
+### Unit 8: 🧭 Navigation
 
 ------------
 
 
-### Unit 10:   🖼 Assets  - Shaps
+### Unit 9:   🖼 Assets  - Shaps
  **Aim:**   Create an introductory page and direct it to the main page for navigation.<br/>
  - Intro [Shapes](https://developer.android.com/reference/kotlin/androidx/compose/material/Shapes)
 
@@ -216,13 +223,13 @@
 ------------
 
 
-### Unit 13: Image Loaders - Coil, Fresco, Glide, Picasso
+### Unit 10: Image Loaders
 
 
 ------------
 
 
-### Unit 14:  Fragments
+### Unit 11:  Fragments
  - Fragment Lifecycle
  - FragmentTransaction
  - Pass Arguments to fragment
@@ -233,17 +240,24 @@
 ------------
 
 
-### Unit 15: 🗺 Map in Android
+### Unit 12: 🗺 Map in Android
 
 
 ------------
 
 
-### Unit 16: 💉 Dependency Injection in Android
+### Unit 13: 💉 Dependency Injection in Android
 
 
 ------------
 
 
-### Unit 17:  Git (Version Control System)
+### Unit 14:  Git (Version Control System)
+
+
+------------
+
+
+### Unit 15:  Notifications
+
 
