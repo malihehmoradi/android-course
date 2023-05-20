@@ -167,8 +167,9 @@ Resources: Android Developer Documentation on [Adapter](https://developer.androi
   - Explore advanced concepts based on your student's progress and interests.
   - Cover topics such as handling different view types within the RecyclerView (e.g., headers, footers), implementing item animations, or integrating   - search functionality.
   - Resources: Android Developer Documentation on [RecyclerView Animations](https://developer.android.com/training/animation/reveal-or-hide-view)
-  
-> Practice create a list of products.
+
+> Google Codelab for RecyclerView and Adapters [link](https://codelabs.developers.google.com/codelabs/kotlin-android-training-recyclerview-fundamentals)<br>
+> Practice create a list of products of build a To-Do app.
   
   
 ## Unit 7:   🏢**Data Persistence and Networking in Android**
