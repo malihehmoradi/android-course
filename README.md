@@ -7,6 +7,10 @@
 | Unit 2  | UI-UX  |
 | Unit 3  | Layouts in Android  |
 | Unit 4  | Introduction to Kotlin  |
+| Unit 5  | Access views in Android  |
+| Unit 6  | Lists and Adapters  |
+| Unit 7  | Data Persistence and Networking  |
+
 
 ------------
 
