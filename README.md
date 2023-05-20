@@ -1,6 +1,9 @@
 # Android Course
 
 
+#### An Android Basics in Kotlin! In this course, you'll learn the basics of building Android apps with the Kotlin programming language. Along the way, you'll develop an app to start your journey as an Android developer.
+
+
 | Units  | Cocepts  |
 | ------------ | ------------ |
 | Unit 1  | Introduction to Android Development  |
