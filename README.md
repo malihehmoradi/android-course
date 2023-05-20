@@ -70,8 +70,43 @@
 
   
 ## Unit 4:   <img src="https://github.com/malihemoradi/android-course/assets/45434883/685cda52-eb5a-4731-86ef-7954602e17a8" with="20" height="20"/>**Introduction to Kotlin**
+  
 - Teach the basics of Kotlin syntax, including variables, data types, control flow statements (if-else, loops), and functions.
-- Resources: [Kotlin Programming Language Documentation](https://kotlinlang.org/docs/home.html), [Kotlin Koans](https://play.kotlinlang.org/koans/overview)  
+- Resources: [Kotlin Programming Language Documentation](https://kotlinlang.org/docs/home.html), [Kotlin Koans](https://play.kotlinlang.org/koans/overview)<br>
+- Step 1: Introduction to Kotlin Basics
+  - Variables, data types, and type inference
+  - Control flow statements (if-else, when, loops)
+  - Functions and lambdas
+  - Nullable types and null safety
+  - String interpolation
+- Step 2: Object-Oriented Programming (OOP) in Kotlin
+  - Classes, objects, and instances
+  - Properties and fields
+  - Constructors and initialization
+  - Inheritance and overriding
+  - Interfaces and abstract classes
+  - Access modifiers (public, private, protected)
+- Step 3: Functional Programming in Kotlin
+  - Higher-order functions
+  - Lambda expressions and function literals
+  - Function composition and pipelining
+  - Collections and operations (map, filter, reduce)
+  - Kotlin standard library functions (let, run, with, apply)
+- Step 4: Extension Functions and Operator Overloading
+  - Extension functions and properties
+  - Extension functions on Android classes (e.g., View)
+  - Operator overloading (e.g., plus, minus, equals)
+- Step 5: Null Safety and Smart Casts
+  - Nullable types and safe calls
+  - Elvis operator and safe casting
+  - Type checks and smart casts
+  - Non-null assertions and lateinit
+- Step 6: Coroutines and Asynchronous Programming
+  - Introduction to coroutines and suspending functions
+  - Coroutine builders (launch, async)
+  - Coroutine context and dispatchers
+  - Structured concurrency and cancellation
+  - Error handling in coroutines 
   
 ## Unit 5:   🏢**Access views in Android**
 - Introduction to View Objects:
@@ -104,12 +139,36 @@
   
   
   
-## Unit 6:   🏢**Lists and Adapters in Android**
-- Introduction to View Objects:
-  - Explain what view objects are in the context of Android development.
-  - Introduce commonly used view classes such as TextView, Button, ImageView, etc.
-  - Teach how to create views programmatically using the corresponding view class.
-  - Resources: Android Developer Documentation on [Views](https://developer.android.com/reference/android/view/View)
+## Unit 6:   📃**Lists and Adapters in Android**
+- Step 1: Introduction to RecyclerView
+  - Explain the purpose and benefits of using RecyclerView for displaying lists in Android.
+  - Familiarize students with the RecyclerView component and its advantages over ListView.
+  - Introduce the concept of a data source for the RecyclerView.
+  - Resources: Android Developer Documentation on [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)
+- Step 2: Creating a Custom Adapter
+  - Explain the role of an adapter in connecting data to the RecyclerView.
+  - Teach students how to create a custom adapter by extending the RecyclerView.Adapter class.
+  - Guide students in implementing the necessary methods such as onCreateViewHolder() and onBindViewHolder().
+Resources: Android Developer Documentation on [Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)
+- Step 3: Understanding ViewHolders
+  - Introduce the ViewHolder pattern and its importance for optimizing RecyclerView performance.
+  - Show students how to create a ViewHolder class to cache references to the views within each item in the list.
+  - Explain the process of binding data to the ViewHolder views in onBindViewHolder().
+  - Resources: Android Developer Documentation on [ViewHolder](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.ViewHolder)
+- Step 4: Data Model and Item Layout
+  - Guide students in creating a data model class to represent the individual items in the list.
+  - Show how to create an item layout XML file to define the visual representation of the list items.
+  - Explain how to inflate the item layout in onCreateViewHolder() and bind data in onBindViewHolder().
+- Step 5: Click Listeners and User Interaction
+  - Teach students how to implement click listeners for items in the RecyclerView.
+  - Demonstrate how to handle item click events and perform actions based on the clicked item.
+  - Discuss other forms of user interaction, such as long-click listeners or swipe gestures.
+- Step 6: Advanced Topics and Enhancements
+  - Explore advanced concepts based on your student's progress and interests.
+  - Cover topics such as handling different view types within the RecyclerView (e.g., headers, footers), implementing item animations, or integrating   - search functionality.
+  - Resources: Android Developer Documentation on [RecyclerView Animations](https://developer.android.com/training/animation/reveal-or-hide-view)
+  
+> Practice create a list of products.
   
   
 ## Unit 7:   🏢**Data Persistence and Networking in Android**
