@@ -147,30 +147,32 @@
   - Resources: Android Developer Documentation on [RecyclerView](https://developer.android.com/guide/topics/ui/layout/recyclerview)
 - Step 2: Creating a Custom Adapter
   - Explain the role of an adapter in connecting data to the RecyclerView.
-  - Teach students how to create a custom adapter by extending the RecyclerView.Adapter class.
-  - Guide students in implementing the necessary methods such as onCreateViewHolder() and onBindViewHolder().
-Resources: Android Developer Documentation on [Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)
+  - How to create a custom adapter by extending the RecyclerView.Adapter class.
+  - Implementing the necessary methods such as onCreateViewHolder() and onBindViewHolder().
+  - Resources: Android Developer Documentation on [Adapter](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.Adapter)
+  - Code Lab: RecyclerView [Google Codelabs](https://codelabs.developers.google.com/codelabs/android-training-create-recycler-view)
 - Step 3: Understanding ViewHolders
   - Introduce the ViewHolder pattern and its importance for optimizing RecyclerView performance.
-  - Show students how to create a ViewHolder class to cache references to the views within each item in the list.
+  - How to create a ViewHolder class to cache references to the views within each item in the list.
   - Explain the process of binding data to the ViewHolder views in onBindViewHolder().
   - Resources: Android Developer Documentation on [ViewHolder](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView.ViewHolder)
 - Step 4: Data Model and Item Layout
-  - Guide students in creating a data model class to represent the individual items in the list.
-  - Show how to create an item layout XML file to define the visual representation of the list items.
-  - Explain how to inflate the item layout in onCreateViewHolder() and bind data in onBindViewHolder().
+  - Creating a data model class to represent the individual items in the list.
+  - How to create an item layout XML file to define the visual representation of the list items.
+  - How to inflate the item layout in onCreateViewHolder() and bind data in onBindViewHolder().
 - Step 5: Click Listeners and User Interaction
-  - Teach students how to implement click listeners for items in the RecyclerView.
-  - Demonstrate how to handle item click events and perform actions based on the clicked item.
+  - How to implement click listeners for items in the RecyclerView.
+  - How to handle item click events and perform actions based on the clicked item.
   - Discuss other forms of user interaction, such as long-click listeners or swipe gestures.
+  - Resources: Android Developer Documentation on [Handling Click Events](https://developer.android.com/guide/topics/ui/controls/button#kotlin)
+  - Code Lab: Clickable Images in RecyclerView [Google Codelabs](https://codelabs.developers.google.com/codelabs/kotlin-android-training-clickable-images)
 - Step 6: Advanced Topics and Enhancements
-  - Explore advanced concepts based on your student's progress and interests.
   - Cover topics such as handling different view types within the RecyclerView (e.g., headers, footers), implementing item animations, or integrating   - search functionality.
   - Resources: Android Developer Documentation on [RecyclerView Animations](https://developer.android.com/training/animation/reveal-or-hide-view)
 
 > Google Codelab for RecyclerView and Adapters [link](https://codelabs.developers.google.com/codelabs/kotlin-android-training-recyclerview-fundamentals)<br>
 > Practice create a list of products of build a To-Do app.
-  
+
   
 ## Unit 7:   🏢**Data Persistence and Networking in Android**
 - Introduction to View Objects:
