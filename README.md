@@ -13,15 +13,16 @@
 | Unit 5  | Access views in Android  |
 | Unit 6  | Lists and Adapters  |
 | Unit 7  | Data Persistence and Networking  |
-| Unit 8  | Navigation  |
-| Unit 9  | Asesets  |
-| Unit 10  | Image Loaders  |
-| Unit 11  |  Fragments  |
-| Unit 12  |  Image Loaders  |
+| Unit 8  |  Fragments  |
+| Unit 9  | Navigation  |
+| Unit 10  | Asesets  |
+| Unit 11  | Image Loaders  |
+| Unit 12  |  Storage  |
 | Unit 13  |  Map  |
-| Unit 14  |  DI  |
-| Unit 15  |  Git  |
-| Unit 16  |  Notification  |
+| Unit 14  |  Map  |
+| Unit 15  |  DI  |
+| Unit 16  |  Git  |
+| Unit 17  |  Notification  |
 ------------
 
 ### Unit 1: Introduction to Android Development
@@ -243,24 +244,30 @@
 ------------
 
 
-### Unit 12: 🗺 Map in Android
+### Unit 12: 📅 Storage
+  
+  
+------------
+
+
+### Unit 13: 🗺 Map in Android
 
 
 ------------
 
 
-### Unit 13: 💉 Dependency Injection in Android
+### Unit 14: 💉 Dependency Injection in Android
 
 
 ------------
 
 
-### Unit 14:  Git (Version Control System)
+### Unit 15:  Git (Version Control System)
 
 
 ------------
 
 
-### Unit 15:  Notifications
+### Unit 16:  Notifications
 
 
