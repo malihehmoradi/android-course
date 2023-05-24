@@ -8,24 +8,27 @@
 | ------------ | ------------ |
 | Unit 1  | [Introduction to Android Development](#unit-1-introduction-to-android-development)  |
 | Unit 2  | [UI-UX](#unit-2-ui-ux----introduce-an-instance-app)  |
-| Unit 3  | Layouts in Android  |
-| Unit 4  | Introduction to Kotlin  |
-| Unit 5  | Access views in Android  |
-| Unit 6  | Lists and Adapters  |
-| Unit 7  | Data Persistence and Networking  |
-| Unit 8  |  Fragments  |
-| Unit 9  | Navigation  |
-| Unit 10  | Asesets  |
-| Unit 11  | Image Loaders  |
-| Unit 12  |  Storage  |
-| Unit 13  |  Map  |
-| Unit 14  |  Map  |
-| Unit 15  |  DI  |
-| Unit 16  |  Git  |
-| Unit 17  |  Notification  |
+| Unit 3  | [Layouts in Android](#unit-3--layouts-in-android)  |
+| Unit 4  | [Introduction to Kotlin](#unit-4-introduction-to-kotlin)  |
+| Unit 5  | [Access views in Android](#unit-5--access-views-in-android)  |
+| Unit 6  | [Lists and Adapters](#unit-6--lists-and-adapters-in-android)  |
+| Unit 7  | [Data Persistence and Networking](#unit-7--data-persistence-and-networking)  |
+| Unit 8  |  [Fragments](#unit-8--navigation)  |
+| Unit 9  | [Navigation](#unit-8--navigation)  |
+| Unit 10  | [Asesets](#unit-9----assets----shaps)  |
+| Unit 11  | [Image Loaders]()  |
+| Unit 12  |  [Storage]()  |
+| Unit 13  |  [Map]()  |
+| Unit 14  |  [Map]()  |
+| Unit 15  |  [DI]()  |
+| Unit 16  |  [Git]()  |
+| Unit 17  |  [Notification]()  |
+| Unit 18  |  [ ]()  |
+| Unit 19  |  [ ]()  |
+| Unit 20  |  [ ]()  |
 ------------
 
-### Unit 1: Introduction to Android Development
+### 👋🏻 Introduction to Android Development
 - **Android:**
   - Introduce [Android](https://www.android.com/)
   - Why do we choose Android?
@@ -46,7 +49,7 @@
 ------------
 
 
-### Unit 2: UI-UX  - Introduce an instance app
+### 🍰 UI-UX
 - **UI**
   - Introduce some UI-UX design tools like: **[Figma](https://www.figma.com)**, **[Adobe XD](https://www.adobe.com/products/xd.html)**, **[Sketch](https://www.sketch.com/)** and work with them
   - Introduce some UI websites like: **[Dribble](https://dribbble.com/)**, **[UI8](https://ui8.net/)**, **[Mobbin](https://mobbin.com/)**, **[Uplabs](https://www.uplabs.com/)**
@@ -56,7 +59,7 @@
 ------------
 
 
-### Unit 3: 🏢 Layouts in Android
+### 🏢 Layouts
 - Introduction to Layouts:
    - Explain the purpose of layouts and how they help in organizing and positioning UI elements in an Android app.
    - Understand the basic structure of an XML layout file in Android.
@@ -97,7 +100,7 @@
 ------------
 
 
-### Unit 4: Introduction to Kotlin
+### 🟪 Introduction to Kotlin
 - Teach the basics of Kotlin syntax, including variables, data types, control flow statements (if-else, loops), and functions.
 - Resources: [Kotlin Programming Language Documentation](https://kotlinlang.org/docs/home.html), [Kotlin Koans](https://play.kotlinlang.org/koans/overview)<br>
 - Step 1: Introduction to Kotlin Basics
@@ -139,7 +142,7 @@
 ------------
 
 
-### Unit 5: 🏢 Access views in Android
+### 🏢 Access views in Android
 - Introduction to View Objects:
   - Explain what view objects are in the context of Android development.
   - Introduce commonly used view classes such as TextView, Button, ImageView, etc.
@@ -171,7 +174,7 @@
 ------------
 
 
-### Unit 6: 📃 Lists and Adapters in Android
+### 📃 Lists and Adapters in Android
 - Step 1: Introduction to RecyclerView
   - Explain the purpose and benefits of using RecyclerView for displaying lists in Android.
   - Familiarize students with the RecyclerView component and its advantages over ListView.
@@ -209,17 +212,17 @@
 ------------
 
 
-### Unit 7: 🏢 Data Persistence and Networking
+### 🏢 Data Persistence and Networking
 
 
 ------------
 
-### Unit 8: 🧭 Navigation
+### 🧭 Navigation
 
 ------------
 
 
-### Unit 9:   🖼 Assets  - Shaps
+### 🖼 Assets  - Shaps
  **Aim:**   Create an introductory page and direct it to the main page for navigation.<br/>
  - Intro [Shapes](https://developer.android.com/reference/kotlin/androidx/compose/material/Shapes)
 
@@ -227,13 +230,13 @@
 ------------
 
 
-### Unit 10: Image Loaders
+### 🖼 Image Loaders
 
 
 ------------
 
 
-### Unit 11:  Fragments
+### 🔳 Fragments
  - Fragment Lifecycle
  - FragmentTransaction
  - Pass Arguments to fragment
@@ -244,30 +247,30 @@
 ------------
 
 
-### Unit 12: 📅 Storage
+### 📅 Storage
   
   
 ------------
 
 
-### Unit 13: 🗺 Map in Android
+### 🗺 Map in Android
 
 
 ------------
 
 
-### Unit 14: 💉 Dependency Injection in Android
+### 💉 Dependency Injection in Android
 
 
 ------------
 
 
-### Unit 15:  Git (Version Control System)
+### 🟠 Git (Version Control System)
 
 
 ------------
 
 
-### Unit 16:  Notifications
+### 🔉 Notifications
 
 
