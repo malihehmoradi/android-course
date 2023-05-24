@@ -6,15 +6,15 @@
 
 | Units  | Cocepts  |
 | ------------ | ------------ |
-| Unit 1  | [Introduction to Android Development](#unit-1-introduction-to-android-development)  |
-| Unit 2  | [UI-UX](#unit-2-ui-ux----introduce-an-instance-app)  |
-| Unit 3  | [Layouts in Android](#unit-3--layouts-in-android)  |
-| Unit 4  | [Introduction to Kotlin](#unit-4-introduction-to-kotlin)  |
-| Unit 5  | [Access views in Android](#unit-5--access-views-in-android)  |
-| Unit 6  | [Lists and Adapters](#unit-6--lists-and-adapters-in-android)  |
-| Unit 7  | [Data Persistence and Networking](#unit-7--data-persistence-and-networking)  |
+| Unit 1  | [Introduction to Android Development](#-introduction-to-android-development)  |
+| Unit 2  | [UI-UX](#-ui-ux)  |
+| Unit 3  | [Layouts in Android](#-layouts)  |
+| Unit 4  | [Introduction to Kotlin](#-introduction-to-kotlin)  |
+| Unit 5  | [Access views in Android](#-access-views-in-android)  |
+| Unit 6  | [Lists and Adapters](#-lists-and-adapters-in-android)  |
+| Unit 7  | [Data Persistence and Networking](#-data-persistence-and-networking)  |
 | Unit 8  |  [Fragments](#unit-8--navigation)  |
-| Unit 9  | [Navigation](#unit-8--navigation)  |
+| Unit 9  | [Navigation](#-navigation)  |
 | Unit 10  | [Asesets](#unit-9----assets----shaps)  |
 | Unit 11  | [Image Loaders]()  |
 | Unit 12  |  [Storage]()  |
@@ -216,6 +216,18 @@
 
 
 ------------
+  
+  
+### 🔳 Fragments
+ - Fragment Lifecycle
+ - FragmentTransaction
+ - Pass Arguments to fragment
+ - DialogFragment
+ - BottomSheet Dialog Fragment
+ - ViewPager
+  
+  
+------------
 
 ### 🧭 Navigation
 
@@ -232,17 +244,6 @@
 
 ### 🖼 Image Loaders
 
-
-------------
-
-
-### 🔳 Fragments
- - Fragment Lifecycle
- - FragmentTransaction
- - Pass Arguments to fragment
- - DialogFragment
- - BottomSheet Dialog Fragment
- - ViewPager
 
 ------------
 
