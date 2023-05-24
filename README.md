@@ -13,16 +13,16 @@
 | Unit 5  | [Access views in Android](#-access-views-in-android)  |
 | Unit 6  | [Lists and Adapters](#-lists-and-adapters-in-android)  |
 | Unit 7  | [Data Persistence and Networking](#-data-persistence-and-networking)  |
-| Unit 8  |  [Fragments](#unit-8--navigation)  |
+| Unit 8  |  [Fragments](#-fragments)  |
 | Unit 9  | [Navigation](#-navigation)  |
-| Unit 10  | [Asesets](#unit-9----assets----shaps)  |
-| Unit 11  | [Image Loaders]()  |
-| Unit 12  |  [Storage]()  |
-| Unit 13  |  [Map]()  |
-| Unit 14  |  [Map]()  |
-| Unit 15  |  [DI]()  |
-| Unit 16  |  [Git]()  |
-| Unit 17  |  [Notification]()  |
+| Unit 10  | [Asesets](#-fragments)  |
+| Unit 11  | [Image Loaders](#-image-loaders)  |
+| Unit 12  |  [Storage](#-storage)  |
+| Unit 13  |  [Map](#-map-in-android)  |
+| Unit 14  |  [DI](#-dependency-injection-in-android)  |
+| Unit 15  |  [Git](#-git-version-control-system)  |
+| Unit 16  |  [Notification](#-notifications)   |
+| Unit 17  |  [ ]()  |
 | Unit 18  |  [ ]()  |
 | Unit 19  |  [ ]()  |
 | Unit 20  |  [ ]()  |
