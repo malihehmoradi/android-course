@@ -61,10 +61,10 @@
 
 ### 🏢 Layouts
 - Introduction to Layouts:
-   - Explain the purpose of layouts and how they help in organizing and positioning UI elements in an Android app.
-   - Understand the basic structure of an XML layout file in Android.
-   - Learn about common XML tags like `<LinearLayout>`, `<RelativeLayout>`, `<ConstraintLayout>`, etc.
-   - Explain how to define UI elements (views) and arrange them using XML attributes.
+   - Purpose of layouts and how they help in organizing and positioning UI elements in an Android app.
+   - Basic structure of an XML layout file in Android.
+   - Common XML tags like `<LinearLayout>`, `<RelativeLayout>`, `<ConstraintLayout>`, etc.
+   - How to define UI elements (views) and arrange them using XML attributes.
    - Resource: Android Developer Documentation - [User Interface Overview](https://developer.android.com/develop/ui), [XML Layouts](https://developer.android.com/guide/topics/ui/declaring-layout)
 - XML Layouts:
    - Introduce **XML** as the **markup language** used to define layouts in Android.
