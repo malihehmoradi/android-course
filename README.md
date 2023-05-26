@@ -63,12 +63,12 @@
 - Introduction to Layouts:
    - Purpose of layouts and how they help in organizing and positioning UI elements in an Android app.
    - Basic structure of an XML layout file in Android.
-   - Common XML tags like `<LinearLayout>`, `<RelativeLayout>`, `<ConstraintLayout>`, etc.
+   - Common XML tags like [`<LinearLayout>`](https://developer.android.com/reference/android/widget/LinearLayout), [`<RelativeLayout>`](https://developer.android.com/reference/kotlin/android/widget/RelativeLayout), [`<ConstraintLayout>`](https://developer.android.com/reference/kotlin/androidx/constraintlayout/widget/ConstraintLayout), etc.
    - How to define UI elements (views) and arrange them using XML attributes.
-   - Resource: Android Developer Documentation - [User Interface Overview](https://developer.android.com/develop/ui), [XML Layouts](https://developer.android.com/guide/topics/ui/declaring-layout)
+   - Resource: Android Developer Documentation - [User Interface Overview](https://developer.android.com/develop/ui), [XML Layouts](https://developer.android.com/guide/topics/ui/declaring-layout), UI Guids: [LinearLayout](https://developer.android.com/develop/ui/views/layout/linear), [RelativeLayout](https://developer.android.com/develop/ui/views/layout/relative), [ConstraintLayout](https://developer.android.com/develop/ui/views/layout/constraint-layout).
 - XML Layouts:
-   - Introduce **XML** as the **markup language** used to define layouts in Android.
-   - Teach how to create XML layout files, including the root element, namespaces, and attributes.
+   - Introduce **XML** as the **[markup language](https://en.wikipedia.org/wiki/Markup_language)** used to define layouts in Android.
+   - Teach how to create XML layout files, including the root element, [namespaces](https://www.geeksforgeeks.org/xml-namespaces-in-android/), and attributes.
    - Resource: Android Developer Documentation - [Layouts in XML](https://developer.android.com/develop/ui/views/layout/declaring-layout)
 - ViewGroups and View Hierarchy:
    - Discuss the concept of ViewGroup as a container for UI elements.
