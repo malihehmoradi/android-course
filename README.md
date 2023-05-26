@@ -6,7 +6,7 @@
 
 | Units  | Cocepts  |
 | ------------ | ------------ |
-| Unit 1  | [Introduction to Android Development](#-introduction-to-android-development)  |
+| Unit 1  | [Install Android Stadio and Tools](#-install-android-stadio-and-tools)  |
 | Unit 2  | [UI-UX](#-ui-ux)  |
 | Unit 3  | [Layouts in Android](#-layouts)  |
 | Unit 4  | [Introduction to Kotlin](#-introduction-to-kotlin)  |
@@ -28,23 +28,35 @@
 | Unit 20  |  [ ]()  |
 ------------
 
-### 👋🏻 Introduction to Android Development
-- **Android:**
-  - Introduce [Android](https://www.android.com/)
-  - Why do we choose Android?
-  - How to make money from Android programming?
-  - Introduce [Android Studio](https://developer.android.com/studio)
-  - Android programming requirements' tools
-  - Introduce Emulators (AVD, Genymotion, Bluestacks)
-  - Install AVD
-- **Kotlin:**
-  - Introduce [Kotlin](https://kotlinlang.org/)
-  - Why do we choose Kotlin?
-- **Requirements:**
-  - Download the last version of Android Studio from this link: [Android Studio](https://developer.android.com/studio)
-  - Download the last version of JDK from this link: [JDK](https://www.oracle.com/java/technologies/downloads/)
 
-> Practice App Idea: Create a simple "Hello, Android" app that displays a welcome message on the screen.
+### 🛠 Install Android Stadio and Tools
+- Step 1: Introduction to Android Studio
+  - Begin by introducing Android Studio as the official integrated development environment (IDE) for Android app development.
+  - Explain its features, including code editing, debugging, and visual layout design.
+  - Discuss the benefits of using Android Studio for Android development.
+  - Resources: [Android official page](https://www.android.com/),  
+- Step 2: System Requirements
+  - Explain the system requirements for installing Android Studio, such as the supported operating systems, minimum RAM, and disk space.
+  - Emphasize the importance of meeting these requirements to ensure smooth installation and usage of Android Studio.
+- Step 3: Download Android Studio
+  - Go to the official Android Studio website: [https://developer.android.com/studio](https://developer.android.com/studio)
+  - How to navigate to the "Download" section of the website.
+  - Guide to select the appropriate version of Android Studio for their operating system (Windows, macOS, or Linux).
+- Step 4: Install Android Studio
+  - How to install Android Studio based on the operating system they are using.
+  - Walk through the installation wizard, including selecting the installation location and accepting the terms and conditions.
+  - Explain the optional components and recommend installing the ones relevant to their development needs.
+- Step 5: Configure Android Studio
+  - Once the installation is complete, guide through the initial setup and configuration process.
+  - Choose the Android SDK (Software Development Kit) components they want to install.
+  - How to set up a virtual device (emulator) for testing Android apps.
+  - Resources: [JDK](https://www.oracle.com/java/technologies/downloads/)
+- Step 6: Verify Installation
+  - Launch Android Studio and verify that it opens without any errors.
+  - Explore the various features and components of the Android Studio IDE, such as the project structure, code editor, and emulator.
+
+> Create the first application to display "Hello World!"
+
 
 ------------
 
