@@ -46,6 +46,7 @@
   - How to install Android Studio based on the operating system they are using.
   - Walk through the installation wizard, including selecting the installation location and accepting the terms and conditions.
   - Explain the optional components and recommend installing the ones relevant to their development needs.
+  - Resources: [Install Android Studio](https://developer.android.com/studio/install)
 - Step 5: Configure Android Studio
   - Once the installation is complete, guide through the initial setup and configuration process.
   - Choose the Android SDK (Software Development Kit) components they want to install.
