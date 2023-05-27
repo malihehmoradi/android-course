@@ -7,8 +7,8 @@
 | Units  | Cocepts  |
 | ------------ | ------------ |
 | Unit 1  | [Install Android Stadio and Tools](#-install-android-stadio-and-tools)  |
-| Unit 2  | [UI-UX](#-ui-ux)  |
-| Unit 3  | [Layouts in Android](#-layouts)  |
+| Unit 2  | [Layouts in Android](#-layouts)  |
+| Unit 3  | [UI-UX](#-ui-ux)  |
 | Unit 4  | [Introduction to Kotlin](#-introduction-to-kotlin)  |
 | Unit 5  | [Access views in Android](#-access-views-in-android)  |
 | Unit 6  | [Lists and Adapters](#-lists-and-adapters-in-android)  |
@@ -62,16 +62,6 @@
 ------------
 
 
-### 🍰 UI-UX
-- **UI**
-  - Introduce some UI-UX design tools like: **[Figma](https://www.figma.com)**, **[Adobe XD](https://www.adobe.com/products/xd.html)**, **[Sketch](https://www.sketch.com/)** and work with them
-  - Introduce some UI websites like: **[Dribble](https://dribbble.com/)**, **[UI8](https://ui8.net/)**, **[Mobbin](https://mobbin.com/)**, **[Uplabs](https://www.uplabs.com/)**
-  - Introduce trend UI
-
-
-------------
-
-
 ### 🏢 Layouts
 - Introduction to Layouts:
    - Purpose of layouts and how they help in organizing and positioning UI elements in an Android app.
@@ -113,6 +103,16 @@
 ------------
 
 
+### 🍰 UI-UX
+- **UI**
+  - Introduce some UI-UX design tools like: **[Figma](https://www.figma.com)**, **[Adobe XD](https://www.adobe.com/products/xd.html)**, **[Sketch](https://www.sketch.com/)** and work with them
+  - Introduce some UI websites like: **[Dribble](https://dribbble.com/)**, **[UI8](https://ui8.net/)**, **[Mobbin](https://mobbin.com/)**, **[Uplabs](https://www.uplabs.com/)**
+  - Introduce trend UI
+
+
+------------
+
+  
 ### 🟪 Introduction to Kotlin
 - Teach the basics of Kotlin syntax, including variables, data types, control flow statements (if-else, loops), and functions.
 - Resources: [Kotlin Programming Language Documentation](https://kotlinlang.org/docs/home.html), [Kotlin Koans](https://play.kotlinlang.org/koans/overview)<br>
