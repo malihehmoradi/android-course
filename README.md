@@ -55,7 +55,8 @@
 * Step 6: Verify Installation
   - Launch Android Studio and verify that it opens without any errors.
   - Explore the various features and components of the Android Studio IDE, such as the project structure, code editor, and emulator.
-
+* Run an AVD (Android Virtual Device) emulator
+  - 
 > Create the first application to display "Hello World!"
 
 
