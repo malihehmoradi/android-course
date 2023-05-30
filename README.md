@@ -56,7 +56,8 @@
   - Launch Android Studio and verify that it opens without any errors.
   - Explore the various features and components of the Android Studio IDE, such as the project structure, code editor, and emulator.
 * Run an AVD (Android Virtual Device) emulator
-  - 
+* Configure the project with [Gradle](Gradle.md)
+
 > Create the first application to display "Hello World!"
 
 
