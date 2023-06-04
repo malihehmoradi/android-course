@@ -100,6 +100,7 @@
    - Discuss best practices for optimizing layouts and improving performance.
    - Resources: Android Developer Documentation - [ScrollView](https://developer.android.com/reference/android/widget/ScrollView), [RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)
 * Explain the concept of the manifest file in Android [Manifest](Manifest.md)
+* Explain the concept of theme and style in Android [theme and style](Theme.md)
 
 > Practice App Idea: Build a User Interface of app.
 
