@@ -99,6 +99,7 @@
    - Explore more advanced topics like using nested layouts, incorporating scrollable views (e.g., `<ScrollView>`, `<RecyclerView>`), and handling different screen sizes and orientations.
    - Discuss best practices for optimizing layouts and improving performance.
    - Resources: Android Developer Documentation - [ScrollView](https://developer.android.com/reference/android/widget/ScrollView), [RecyclerView](https://developer.android.com/reference/androidx/recyclerview/widget/RecyclerView)
+* Explain the concept of the manifest file in Android [Manifest](Manifest.md)
 
 > Practice App Idea: Build a User Interface of app.
 
