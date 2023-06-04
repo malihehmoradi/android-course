@@ -7,7 +7,7 @@
 | Units  | Cocepts  |
 | ------------ | ------------ |
 | Unit 1  | [Install Android Stadio and Tools](#-install-android-stadio-and-tools)  |
-| Unit 2  | [User Interface and Layouts](#-user-interface-and-layouts)  |
+| Unit 2  | [Layouts](#-layouts)  |
 | Unit 3  | [UI-UX](#-ui-ux)  |
 | Unit 4  | [Introduction to Kotlin](#-introduction-to-kotlin)  |
 | Unit 5  | [Access views in Android](#-access-views-in-android)  |
@@ -65,7 +65,7 @@
 ------------
 
 
-### 🏢 User Interface and Layouts
+### 🏢 Layouts
 * Introduction to Layouts:
    - Purpose of layouts and how they help in organizing and positioning UI elements in an Android app.
    - Basic structure of an XML layout file in Android.
