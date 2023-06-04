@@ -55,6 +55,7 @@
 * Step 6: Verify Installation
   - Launch Android Studio and verify that it opens without any errors.
   - Explore the various features and components of the Android Studio IDE, such as the project structure, code editor, and emulator.
+  - Resources: [Get to know the Android Studio UI](https://developer.android.com/studio/intro/user-interface), [Keyboard shortcuts](https://developer.android.com/studio/intro/keyboard-shortcuts)
 * Run an AVD (Android Virtual Device) emulator
 * Configure the project with [Gradle](Gradle.md)
 
