@@ -30,8 +30,12 @@
   - Assign practical exercises to your students, such as creating a simple Android application with multiple components and appropriate manifest declarations.
   - Encourage them to experiment with different manifest settings, intent filters, and permissions to gain a better understanding of their usage.
   
-  - Resources:
-
-Official Android Documentation: Manifest File - https://developer.android.com/guide/topics/manifest/manifest-intro
-  
-Android Developers Codelabs: Manifest File - https://developer.android.com/codelabs/basic-android-kotlin-training-introduction-manifest
+> Resources:
+>
+> Official Android Documentation: Manifest File - https://developer.android.com/guide/topics/manifest/manifest-intro 
+>
+> Android Developers Codelabs: Manifest File - https://developer.android.com/codelabs/basic-android-kotlin-training-introduction-manifest
+>
+> Declaring Permissions: https://developer.android.com/guide/topics/permissions/overview
+>
+> Intent Filters: https://developer.android.com/guide/components/intents-filters
