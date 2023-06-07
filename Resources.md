@@ -9,27 +9,27 @@
   - Introduce layout resources and their role in defining the user interface of an Android app.
   - Teach how to create layout XML files using different layout types (e.g., LinearLayout, RelativeLayout, ConstraintLayout) and various UI components (e.g., TextView, Button, ImageView).
   - Explain how to reference layout resources in activity classes and how to inflate them using the setContentView() method.
-  - Android Developer Documentation: Create a new layout
+  - Android Developer Documentation: [Create a new layout](https://developer.android.com/develop/ui/views/layout/declaring-layout)
 
 * Step 3: String Resources
   - Explain the importance of using string resources for better localization and maintenance of the app.
   - Teach how to define string resources in the strings.xml file and how to reference them in the layout XML files or Java/Kotlin code.
   - Show how to handle string formatting and plurals in string resources.
-  - Android Developer Documentation: String Resources
+  - Android Developer Documentation: [String Resources](https://developer.android.com/guide/topics/resources/string-resource)
 
 * Step 4: Drawable Resources
   - Discuss drawable resources and their use for images and visual elements in the app.
   - Cover different types of drawables, such as bitmap images, shape drawables, and vector drawables.
   - Teach how to create and use drawable resources in layouts and code.
-  - Android Developer Documentation: Drawable Resources
+  - Android Developer Documentation: [Drawable Resources](https://developer.android.com/guide/topics/resources/drawable-resource)
 
 * Step 5: Color and Dimension Resources
   - Explain the benefits of using color and dimension resources to maintain a consistent look and feel across the app.
   - Teach how to define and use color resources for text, backgrounds, and other UI elements.
   - Show how to define dimension resources for sizes and spacing.
-  - Android Developer Documentation: Color Resources and Dimension Resources
+  - Android Developer Documentation: [Color Resources](https://developer.android.com/guide/topics/resources/more-resources#Color) and [Dimension Resources](https://developer.android.com/guide/topics/resources/more-resources#Dimension)
 
 * Step 6: Other Resource Types
   - Briefly introduce other resource types, such as styles, themes, and animations, and explain their roles in Android app development.
   - Provide examples and use cases for each resource type.
-  - Android Developer Documentation: Styles and Themes, Animations
+  - Android Developer Documentation: [Styles and Themes](https://developer.android.com/develop/ui/views/theming/themes), [Animations](https://developer.android.com/guide/topics/resources/animation-resource)
