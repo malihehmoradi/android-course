@@ -8,7 +8,7 @@
 | ------------ | ------------ |
 | Unit 1  | [Install Android Stadio and Tools](#-install-android-stadio-and-tools)  |
 | Unit 2  | [Layouts](#-layouts)  |
-| Unit 3  | [UI-UX](#-ui-ux)  |
+| Unit 3  | [UI/UX Design](#-uiux-design)  |
 | Unit 4  | [Introduction to Kotlin](#-introduction-to-kotlin)  |
 | Unit 5  | [Access views in Android](#-access-views-in-android)  |
 | Unit 6  | [Lists and Adapters](#-lists-and-adapters-in-android)  |
@@ -109,11 +109,29 @@
 ------------
 
 
-### 🍰 UI-UX
-* **UI**
-  - Introduce some UI-UX design tools like: **[Figma](https://www.figma.com)**, **[Adobe XD](https://www.adobe.com/products/xd.html)**, **[Sketch](https://www.sketch.com/)** and work with them
-  - Introduce some UI websites like: **[Dribble](https://dribbble.com/)**, **[UI8](https://ui8.net/)**, **[Mobbin](https://mobbin.com/)**, **[Uplabs](https://www.uplabs.com/)**
-  - Introduce trend UI
+### 🍰 UI/UX Design
+1. **Learn the fundamentals of UX design**: This will give you a solid foundation of the principles, methods, and processes of UX design. You will learn how to empathize with users, define problems, ideate solutions, prototype and test designs, and iterate based on feedback. Some resources you can use to learn UX design fundamentals are:
+    - [Coursera: UI/UX Design Specialization](https://www.coursera.org/specializations/ui-ux-design)
+    - [Udemy: User Experience Design Essentials - Adobe XD UI UX Design](https://www.udemy.com/course/ui-ux-web-design-using-adobe-xd/)
+    - [Interaction Design Foundation: UX Design Courses](https://www.interaction-design.org/courses)
+2. **Learn the fundamentals of UI design**: This will give you a solid foundation of the principles, elements, and tools of UI design. You will learn how to create visually appealing and functional interfaces that match the user needs and expectations. You will also learn how to use design systems, guidelines, and patterns to ensure consistency and usability. Some resources you can use to learn UI design fundamentals are:
+    - [Coursera: Visual Elements of User Interface Design](https://www.coursera.org/learn/ui-design)
+    - [Udemy: UI & Web Design using Adobe Illustrator CC](https://www.udemy.com/course/ui-web-design-using-adobe-illustrator/)
+    - [Skillshare: UI/UX & Web Design using Adobe XD](https://www.skillshare.com/classes/UIUX-Web-Design-using-Adobe-XD/1910638556)
+3. **Learn the tools and software of UI/UX design**: This will give you a practical knowledge of how to use various tools and software to create and communicate your UI/UX designs. You will learn how to use tools such as **[Sketch](https://www.sketch.com/)**, **[Figma](https://www.figma.com)**, **[Adobe XD](https://www.adobe.com/products/xd.html)**, Photoshop, Illustrator, etc., to create wireframes, mockups, prototypes, icons, graphics, etc. You will also learn how to use tools such as InVision, Marvel, Balsamiq, etc., to collaborate and share your designs with others. Some resources you can use to learn UI/UX design tools and software are:
+    - [Coursera: UI / UX Design with Adobe XD Ecosystem](https://www.coursera.org/learn/ui-ux-design-with-adobe-xd-ecosystem)
+    - [Udemy: The Complete Sketch 5 Course - Design Apps & Websites 2021](https://www.udemy.com/course/sketchdesign/)
+    - [Skillshare: Figma for Beginners: Learn UI/UX Design from Scratch](https://www.skillshare.com/classes/Figma-for-Beginners-Learn-UIUX-Design-from-Scratch/1258850005)
+4. **Build a portfolio of UI/UX design projects**: This will give you a chance to apply your skills and knowledge to real-world problems and showcase your work to potential employers or clients. You will learn how to choose projects that demonstrate your value and expertise, how to document your design process and decisions, and how to present your designs effectively. Some resources you can use to build a UI/UX design portfolio are:
+    - [Coursera: Build a Professional Portfolio with Adobe XD](https://www.coursera.org/projects/build-a-professional-portfolio-with-adobe-xd)
+    - [Udemy: How To Create A UX/UI Portfolio With No Experience](https://www.udemy.com/course/how-to-create-a-uxui-portfolio-with-no-experience/)
+    - [Skillshare: How To Create A Stunning Portfolio Website As A Web Developer](https://www.skillshare.com/classes/How-To-Create-A-Stunning-Portfolio-Website-As-A-Web-Developer/2130441899)
+5. **Keep learning and improving your UI/UX design skills**: This will help you stay updated with the latest trends and technologies in the UI/UX field and expand your knowledge and abilities. You will learn how to follow industry best practices, how to learn from other designers and experts, how to find inspiration and resources, and how to challenge yourself with new projects and skills. Some resources you can use to keep learning and improving your UI/UX design skills are:
+    - [Coursera: Advanced UX Research & Strategy](https://www.coursera.org/specializations/advanced-ux-research-strategy)
+    - [Udemy: Mobile App Design In Sketch 3: UX and UI Design From Scratch](https://www.udemy.com/course/mobile-app-design-in-sketch-3-ux-and-ui-design-from-scratch/)
+    - [Skillshare: UI Animation Fundamentals & Micro-interactions in After Effects](https://www.skillshare.com/classes/UI-Animation-Fundamentals-Micro-interactions-in-After-Effects/1560151896)
+- Introduce some UI websites like: **[Dribble](https://dribbble.com/)**, **[UI8](https://ui8.net/)**, **[Mobbin](https://mobbin.com/)**, **[Uplabs](https://www.uplabs.com/)**
+- Introduce trend UI
 
 
 ------------
