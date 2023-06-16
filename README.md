@@ -132,6 +132,11 @@
     - [Skillshare: UI Animation Fundamentals & Micro-interactions in After Effects](https://www.skillshare.com/classes/UI-Animation-Fundamentals-Micro-interactions-in-After-Effects/1560151896)
 - Introduce some UI websites like: **[Dribble](https://dribbble.com/)**, **[UI8](https://ui8.net/)**, **[Mobbin](https://mobbin.com/)**, **[Uplabs](https://www.uplabs.com/)**
 - Introduce trend UI
+- [Material's Communication Principles: Codelab- Intro to UX Writing](https://codelabs.developers.google.com/codelabs/material-communication-guidance)
+- [Material's Communication Principles](https://m2.material.io/design/communication/confirmation-acknowledgement.html)
+- [Google UX Design Certificate](https://learndigital.withgoogle.com/digitalworkshop-eu/course/gccs-ux-design)
+
+
 
 
 ------------
