@@ -86,7 +86,7 @@
    - Demonstrate how to nest layouts and views within a linear layout.
    - Resources: Android Developer Documentation - [LinearLayout](https://developer.android.com/reference/android/widget/LinearLayout)
 * Relative Layout:
-   - Introduce the <RelativeLayout> tag for creating more flexible UI layouts.
+   - Introduce the <RelativeLayout> tag for creating more **flexible UI layouts**.
    - Explain how to position views relative to each other using attributes like layout_above, layout_below, layout_toLeftOf, etc.
    - Demonstrate the use of alignment attributes and margins in relative layouts.
    - Resources: Android Developer Documentation - [RelativeLayout](https://developer.android.com/reference/android/widget/RelativeLayout)
