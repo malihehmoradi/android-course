@@ -28,7 +28,7 @@
 | Unit 20  |  [ ]()  |
 ------------
 
-[Figma](https://www.figma.com/file/O9kcOlYhmlRjSnxU64C18d/learn-android?type=design&node-id=1-9&mode=design&t=YWZmocQtdUF6D2Ko-0)
+[Figma](https://www.figma.com/file/O9kcOlYhmlRjSnxU64C18d/learn-android?type=design&node-id=1%3A9&mode=design&t=YWZmocQtdUF6D2Ko-1)
 
 
 ### 🛠 Install Android Stadio and Tools
