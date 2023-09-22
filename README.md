@@ -141,7 +141,7 @@
   
 ### 🟪 Introduction to Kotlin
 * Download intellij [Link](https://www.jetbrains.com/idea/download)  
-* Teach the basics of Kotlin syntax, including variables, data types, control flow statements (if-else, loops), and functions.
+* Teach the basics of Kotlin syntax, including Variables, Basic types, Collections, Control flow, Functions, Classes, Null safety.
 * Resources: [Kotlin Programming Language Documentation](https://kotlinlang.org/docs/home.html), [Kotlin Koans](https://play.kotlinlang.org/koans/overview)<br>
 * Step 1: Introduction to Kotlin Basics
   - Variables, data types, and type inference
