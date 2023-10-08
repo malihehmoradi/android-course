@@ -179,7 +179,7 @@
   - Error handling in coroutines
  
 Video Resources:
-**(Kotlin Tutorial with Donn Felker)[https://www.youtube.com/watch?v=wuiT4T_LJQo]**
+**[Kotlin Tutorial with Donn Felker](https://www.youtube.com/watch?v=wuiT4T_LJQo)**
 
 
 ------------
