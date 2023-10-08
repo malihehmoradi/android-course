@@ -177,6 +177,9 @@
   - Coroutine context and dispatchers
   - Structured concurrency and cancellation
   - Error handling in coroutines
+ 
+Video Resources:
+**(Kotlin Tutorial with Donn Felker)[https://www.youtube.com/watch?v=wuiT4T_LJQo]**
 
 
 ------------
